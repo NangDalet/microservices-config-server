@@ -1,0 +1,11 @@
+account.msg=welcome to the Dalet Bank Accounts Default application file system
+account.build-version=3
+
+account.mailDetails.hostName=default-accounts@piseth.com
+account.mailDetails.port=9000
+account.mailDetails.from=default-accounts@piseth.com
+account.mailDetails.subject=Your Account Details from Dalet Bank Default Enviroment
+
+account.activeBranch[0]=Phnom Penh
+account.activeBranch[1]=Battambang
+account.activeBranch[2]=Porsat

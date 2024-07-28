@@ -1,0 +1,11 @@
+account.propertiesaccount.msg=welcome to the Dalet Bank Accounts Dev application file system
+account.build-version=3
+
+account.mailDetails.hostName=default-accounts@piseth.com
+account.mailDetails.port=9001
+account.mailDetails.from=dev-accounts@piseth.com
+account.mailDetails.subject=Your Account Details from Dalet Bank Dev Enviroment
+
+account.activeBranch[0]=Kompong Thom
+account.activeBranch[1]=Battambang
+account.activeBranch[2]=Kompong Cham

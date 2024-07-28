@@ -1,0 +1,11 @@
+account.propertiesaccount.msg=welcome to the Dalet Bank Accounts Production application file system
+account.build-version=3
+
+account.mailDetails.hostName=default-accounts@piseth.com
+account.mailDetails.port=9000
+account.mailDetails.from=prod-accounts@piseth.com
+account.mailDetails.subject=Your Account Details from Dalet Bank Prod Enviroment
+
+account.activeBranch[0]=Banteay Meanchey
+account.activeBranch[1]=Svay Reang
+account.activeBranch[2]=Kondal
